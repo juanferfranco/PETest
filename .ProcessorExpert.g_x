@@ -1,0 +1,31 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/Vectors.c" FileDate="2013-12-13, 08:23:25" FileAge="1386941005000" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2013-12-13, 08:23:25" FileAge="1386941005089" FileType="45637" CompNumb="4" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2013-12-13, 08:23:25" FileAge="1386941005089" FileType="128" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2013-12-13, 08:23:25" FileAge="1386941005073" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2013-12-13, 08:23:25" FileAge="1386941005136" FileType="45637" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2013-12-13, 08:23:25" FileAge="1386941005042" FileType="8" CompNumb="4" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2013-12-13, 08:23:25" FileAge="1386941005214" FileType="3072" />
+      <File Name="Sources/Events.h" FileDate="2013-12-13, 08:23:24" FileAge="1386941004984" FileType="131328" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2013-12-13, 08:23:25" FileAge="1386941005276" FileType="3072" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2013-12-13, 08:23:25" FileAge="1386941005151" FileType="45637" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2013-12-13, 08:23:25" FileAge="1386941005167" FileType="3072" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2013-12-13, 08:23:25" FileAge="1386941005120" FileType="45637" />
+      <File Name="Sources/Events.c" FileDate="2013-12-13, 08:23:24" FileAge="1386941004921" FileType="131328" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2013-12-13, 08:23:25" FileAge="1386941005151" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2013-12-13, 08:23:25" FileAge="1386941005104" FileType="45637" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>1</CodeGenReference>
+</CodeGenerationInfo>
